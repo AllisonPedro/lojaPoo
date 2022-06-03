@@ -7,4 +7,4 @@ Treinado programação orientada a objetos.
  3. Css
 
 # Netify
-Demo --> [loja 1.0](www.google.com)
+Demo --> [loja 1.0](https://lojapoo.netlify.app/)
